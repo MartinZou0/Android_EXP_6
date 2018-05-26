@@ -3,7 +3,7 @@
 ## 1.实验结果
 
 <div align="center">
-<img src="https://img-blog.csdn.net/20180526184824551?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L01hcnRpblpvdQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70" width="300"/><img src="https://img-blog.csdn.net/20180526185202140?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L01hcnRpblpvdQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70" width="300"  />
+<img src="https://github.com/MartinZou0/Android_EXP_6/blob/master/shortcut/1.png" width="300"/><img src="https://github.com/MartinZou0/Android_EXP_6/blob/master/shortcut/3.png" width="300"  />
 </div>
 
 ## 2.注意事项
