@@ -1,8 +1,9 @@
 # Intent隐式打开网页
 
 ## 1.实验结果
+
 <div align="center">
-<img src="https://github.com/MartinZou0/Android_EXP_5/blob/master/shortcut/1.jpg" width="300"/><img src="https://github.com/MartinZou0/Android_EXP_5/blob/master/shortcut/2.jpg" width="300"  />
+<img src="https://github.com/MartinZou0/Android_EXP_6/blob/master/shortcut/1.png" width="300"/><img src="https://github.com/MartinZou0/Android_EXP_6/blob/master/shortcut/3.png" width="300"  />
 </div>
 
 ## 2.注意事项
