@@ -3,7 +3,7 @@
 ## 1.实验结果
 
 <div align="center">
-<img src="https://github.com/MartinZou0/Android_EXP_6/blob/master/shortcut/1.png" width="300"/><img src="https://github.com/MartinZou0/Android_EXP_6/blob/master/shortcut/3.png" width="300"  />
+<img src="https://github.com/MartinZou0/Android_EXP_6/blob/master/shortcut/1.png" width="300"/>       <img src="https://github.com/MartinZou0/Android_EXP_6/blob/master/shortcut/3.png" width="300"  />
 </div>
 
 ## 2.注意事项
